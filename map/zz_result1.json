@@ -1,0 +1,21 @@
+{
+  "results": {
+    "uav_1": [],
+    "uav_2": []
+  },
+  "execution_times": {
+    "total_time": 5.308387041091919,
+    "simulation_time": 4.798225164413452,
+    "top_times": {
+      "uav_1": {
+        "total_time": 6.604194641113281e-05,
+        "segment_times": []
+      },
+      "uav_2": {
+        "total_time": 7.200241088867188e-05,
+        "segment_times": []
+      }
+    }
+  },
+  "total_time": 5.308387994766235
+}

@@ -1,0 +1,22 @@
+# Environments / caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Paper sources (Overleaf export, kept locally only)
+paper/
+
+# Large media (regenerate with scripts)
+*.mp4
+*.gif
+
+# Legacy corridor scene derived from the lab SAMS simulator (not part of this paper)
+environments/
+
+# Gurobi license
+gurobi.lic

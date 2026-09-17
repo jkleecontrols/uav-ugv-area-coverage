@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+geopandas
+gurobipy   # requires a Gurobi license (free academic license available)
