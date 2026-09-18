@@ -1,0 +1,20 @@
+{
+  "name": "tamu_physical_v2",
+  "map_path": "map/mapofroads.geojson",
+  "projected_crs": "EPSG:32614",
+  "road_route": "largest_component_weighted_diameter_out_and_back",
+  "uavs": 3, "pads": 2,
+  "flight_s": 1200, "charge_s": 840, "slot_s": 120,
+  "horizon_s": 6120, "warmup_s": 2040,
+  "uav_speed_mps": 10.0, "ugv_speed_mps": 5.0,
+  "fov_forward_m": 100.0, "fov_cross_m": 67.0,
+  "heading_step_deg": 5.0,
+  "physical_heading_limit": true,
+  "planning_grid_m": 5.0, "evaluation_grid_m": 1.0,
+  "observation_step_s": 1,
+  "search_iterations": 2, "reinitializations": 1,
+  "point_target_spacing_m": 150.0,
+  "initial_heading_rad": 0.0,
+  "sweep_spacing_fraction": 0.9,
+  "protocol": "docs/EXPERIMENT_PROTOCOL_V2.md"
+}

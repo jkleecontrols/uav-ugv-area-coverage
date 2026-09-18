@@ -1,0 +1,69 @@
+{
+  "runs_checked": 9,
+  "common_source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+  "runs": [
+    {
+      "run": "full_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.6691495030466,
+      "passed": true
+    },
+    {
+      "run": "full_seed1",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 96.28194286773393,
+      "passed": true
+    },
+    {
+      "run": "full_seed2",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 96.85042744943586,
+      "passed": true
+    },
+    {
+      "run": "greedy_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.50871116465491,
+      "passed": true
+    },
+    {
+      "run": "greedy_seed1",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.61169288510993,
+      "passed": true
+    },
+    {
+      "run": "greedy_seed2",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.81145888839978,
+      "passed": true
+    },
+    {
+      "run": "naive_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.30465908301092,
+      "passed": true
+    },
+    {
+      "run": "naive_seed1",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 95.60723304682251,
+      "passed": true
+    },
+    {
+      "run": "naive_seed2",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 94.7716794476751,
+      "passed": true
+    }
+  ]
+}

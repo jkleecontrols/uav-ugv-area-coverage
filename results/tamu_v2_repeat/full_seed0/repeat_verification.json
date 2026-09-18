@@ -1,0 +1,12 @@
+{
+  "original": "results/tamu_physical_v2/main/full_seed0",
+  "repeat": "results/tamu_v2_repeat/full_seed0",
+  "passed": true,
+  "arrays_identical": 24,
+  "non_runtime_metrics_identical": true,
+  "excluded_metrics": [
+    "runtime_s",
+    "planning_runtime_s"
+  ],
+  "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471"
+}

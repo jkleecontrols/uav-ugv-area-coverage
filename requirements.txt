@@ -5,3 +5,5 @@ seaborn
 networkx
 geopandas
 gurobipy   # requires a Gurobi license (free academic license available)
+shapely>=2.0
+pyproj>=3.4

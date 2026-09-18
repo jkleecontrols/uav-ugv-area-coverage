@@ -1,0 +1,36 @@
+{
+  "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+  "protocol_sha256": "1d39fb3191499cd1d7fc65842c86b0f14f6c8577da66b355e020e2a5c68976ec",
+  "main_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "methods": [
+    "point",
+    "naive",
+    "sweep",
+    "greedy",
+    "full",
+    "no_heading",
+    "no_reinit",
+    "neither"
+  ],
+  "heading_sensitivity_deg_s": [
+    2.5,
+    5.0,
+    10.0
+  ],
+  "sensitivity_seeds": [
+    0,
+    1,
+    2
+  ]
+}

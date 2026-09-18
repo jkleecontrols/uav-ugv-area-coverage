@@ -1,0 +1,27 @@
+{
+  "runs_checked": 3,
+  "common_source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+  "runs": [
+    {
+      "run": "full_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 99.67298380557422,
+      "passed": true
+    },
+    {
+      "run": "greedy_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 99.66597548826542,
+      "passed": true
+    },
+    {
+      "run": "naive_seed0",
+      "source_sha256": "3a4e9c8c245b5e4f788c8ea1331267660a105b84e435fa3d44e924265fb55471",
+      "independently_checked_cells": 96,
+      "coverage_percent": 73.03234251558047,
+      "passed": true
+    }
+  ]
+}

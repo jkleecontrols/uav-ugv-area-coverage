@@ -20,3 +20,28 @@ environments/
 
 # Gurobi license
 gurobi.lic
+
+# Regenerable simulation arrays, figures and videos.
+# The small v2 numerical summaries are kept so the reports referenced by
+# readme.md and docs/ resolve in the repository; .npz arrays and MP4s do not.
+results/*
+!results/tamu_physical_v2/
+results/tamu_physical_v2/*
+!results/tamu_physical_v2/report.md
+!results/tamu_physical_v2/all_metrics.csv
+!results/tamu_physical_v2/analysis.json
+!results/tamu_physical_v2/manifest.json
+!results/tamu_physical_v2/main/
+!results/tamu_physical_v2/turn_2.5/
+!results/tamu_physical_v2/turn_10/
+!results/tamu_physical_v2/planning_1m/
+results/tamu_physical_v2/main/*
+results/tamu_physical_v2/turn_2.5/*
+results/tamu_physical_v2/turn_10/*
+results/tamu_physical_v2/planning_1m/*
+!results/tamu_physical_v2/*/verification.json
+!results/tamu_v2_repeat/
+results/tamu_v2_repeat/*
+!results/tamu_v2_repeat/full_seed0/
+results/tamu_v2_repeat/full_seed0/*
+!results/tamu_v2_repeat/full_seed0/repeat_verification.json
